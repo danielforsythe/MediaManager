@@ -1,0 +1,37 @@
+C:\Users\Daniel\Documents\cd_db\cd_db\cd_db\bin\Debug\netstandard2.0\cd_db.deps.json
+C:\Users\Daniel\Documents\cd_db\cd_db\cd_db\bin\Debug\netstandard2.0\cd_db.dll
+C:\Users\Daniel\Documents\cd_db\cd_db\cd_db\obj\Debug\netstandard2.0\cd_db.csprojAssemblyReference.cache
+C:\Users\Daniel\Documents\cd_db\cd_db\cd_db\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Daniel\Documents\cd_db\cd_db\cd_db\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\Daniel\Documents\cd_db\cd_db\cd_db\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Users\Daniel\Documents\cd_db\cd_db\cd_db\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Users\Daniel\Documents\cd_db\cd_db\cd_db\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\Daniel\Documents\cd_db\cd_db\cd_db\obj\Debug\netstandard2.0\Views\MenuPage.xaml.g.cs
+C:\Users\Daniel\Documents\cd_db\cd_db\cd_db\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Users\Daniel\Documents\cd_db\cd_db\cd_db\obj\Debug\netstandard2.0\cd_db.AssemblyInfoInputs.cache
+C:\Users\Daniel\Documents\cd_db\cd_db\cd_db\obj\Debug\netstandard2.0\cd_db.AssemblyInfo.cs
+C:\Users\Daniel\Documents\cd_db\cd_db\cd_db\bin\Debug\netstandard2.0\ref\cd_db.dll
+C:\Users\Daniel\Documents\cd_db\cd_db\cd_db\bin\Debug\netstandard2.0\cd_db.pdb
+C:\Users\Daniel\Documents\cd_db\cd_db\cd_db\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Daniel\Documents\cd_db\cd_db\cd_db\obj\Debug\netstandard2.0\cd_db.dll
+C:\Users\Daniel\Documents\cd_db\cd_db\cd_db\obj\Debug\netstandard2.0\ref\cd_db.dll
+C:\Users\Daniel\Documents\cd_db\cd_db\cd_db\obj\Debug\netstandard2.0\cd_db.pdb
+E:\2019 Archive\2019 Fall\ITS 440\ITS 440 Forsythe Final Project\cd_db\cd_db\cd_db\bin\Debug\netstandard2.0\cd_db.deps.json
+E:\2019 Archive\2019 Fall\ITS 440\ITS 440 Forsythe Final Project\cd_db\cd_db\cd_db\bin\Debug\netstandard2.0\cd_db.dll
+E:\2019 Archive\2019 Fall\ITS 440\ITS 440 Forsythe Final Project\cd_db\cd_db\cd_db\bin\Debug\netstandard2.0\ref\cd_db.dll
+E:\2019 Archive\2019 Fall\ITS 440\ITS 440 Forsythe Final Project\cd_db\cd_db\cd_db\bin\Debug\netstandard2.0\cd_db.pdb
+E:\2019 Archive\2019 Fall\ITS 440\ITS 440 Forsythe Final Project\cd_db\cd_db\cd_db\obj\Debug\netstandard2.0\cd_db.csprojAssemblyReference.cache
+E:\2019 Archive\2019 Fall\ITS 440\ITS 440 Forsythe Final Project\cd_db\cd_db\cd_db\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\2019 Archive\2019 Fall\ITS 440\ITS 440 Forsythe Final Project\cd_db\cd_db\cd_db\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+E:\2019 Archive\2019 Fall\ITS 440\ITS 440 Forsythe Final Project\cd_db\cd_db\cd_db\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+E:\2019 Archive\2019 Fall\ITS 440\ITS 440 Forsythe Final Project\cd_db\cd_db\cd_db\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+E:\2019 Archive\2019 Fall\ITS 440\ITS 440 Forsythe Final Project\cd_db\cd_db\cd_db\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+E:\2019 Archive\2019 Fall\ITS 440\ITS 440 Forsythe Final Project\cd_db\cd_db\cd_db\obj\Debug\netstandard2.0\Views\MenuPage.xaml.g.cs
+E:\2019 Archive\2019 Fall\ITS 440\ITS 440 Forsythe Final Project\cd_db\cd_db\cd_db\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+E:\2019 Archive\2019 Fall\ITS 440\ITS 440 Forsythe Final Project\cd_db\cd_db\cd_db\obj\Debug\netstandard2.0\cd_db.AssemblyInfoInputs.cache
+E:\2019 Archive\2019 Fall\ITS 440\ITS 440 Forsythe Final Project\cd_db\cd_db\cd_db\obj\Debug\netstandard2.0\cd_db.AssemblyInfo.cs
+E:\2019 Archive\2019 Fall\ITS 440\ITS 440 Forsythe Final Project\cd_db\cd_db\cd_db\obj\Debug\netstandard2.0\cd_db.csproj.CoreCompileInputs.cache
+E:\2019 Archive\2019 Fall\ITS 440\ITS 440 Forsythe Final Project\cd_db\cd_db\cd_db\obj\Debug\netstandard2.0\XamlC.stamp
+E:\2019 Archive\2019 Fall\ITS 440\ITS 440 Forsythe Final Project\cd_db\cd_db\cd_db\obj\Debug\netstandard2.0\cd_db.dll
+E:\2019 Archive\2019 Fall\ITS 440\ITS 440 Forsythe Final Project\cd_db\cd_db\cd_db\obj\Debug\netstandard2.0\ref\cd_db.dll
+E:\2019 Archive\2019 Fall\ITS 440\ITS 440 Forsythe Final Project\cd_db\cd_db\cd_db\obj\Debug\netstandard2.0\cd_db.pdb
